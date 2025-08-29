@@ -208,7 +208,7 @@
                     figure
                       img(src="@/assets/curso/tema2/20.svg", data-aos="zoom-in")
                   .col-lg
-                    p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+                    p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente pódcast:
             
                     TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
                       texto="Derechos humanos en la participación campesina"

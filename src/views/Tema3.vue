@@ -350,7 +350,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Principales herramientas de incidencia
     
-    p.mb-5 Las comunidades rurales cuentan con diversas herramientas para participar activamente en la gestión pública y hacer seguimiento a las decisiones del Estado, desde la vigilancia ciudadana hasta la presentación de propuestas y el diálogo directo con las autoridades: 
+    p.mb-5 Las comunidades rurales cuentan con diversas herramientas para participar activamente en la gestión pública y hacer seguimiento a las decisiones del Estado, desde la vigilancia ciudadana hasta la presentación de propuestas y el diálogo directo con las autoridades. 
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -476,13 +476,13 @@
               ul.lista-ul--color.bg-color-white.p-4.tarjeta.mb-0
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-10
-                  p.mb-0 •	Contar con reglas claras y transparencia en la toma de decisiones.
+                  p.mb-0 Contar con reglas claras y transparencia en la toma de decisiones.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-10
-                  p.mb-0 •	Promover participación activa y liderazgo colectivo.
+                  p.mb-0 Promover participación activa y liderazgo colectivo.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-10
-                  p.mb-0 •	Fomentar solidaridad, confianza y trabajo conjunto, elementos que fortalecen los procesos organizativos.
+                  p.mb-0 Fomentar solidaridad, confianza y trabajo conjunto, elementos que fortalecen los procesos organizativos.
         p A través de la unidad y la acción común, las organizaciones campesinas y comunitarias logran defender derechos, acceder a oportunidades y transformar el territorio.
     
     separador

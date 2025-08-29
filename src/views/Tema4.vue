@@ -105,7 +105,7 @@
                   p.mb-0 Apoyo a 16 asociaciones productivas en mora, apicultura, guayaba, arveja, entre otros cultivos, mediante cofinanciación nacional y departamental.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-10
-                  p.mb-0 Implementación del Plan de Extensión Agropecuaria en 10 municipios prioritarios, ofreciendo formación y asesoría técnica.
+                  p.mb-0 Implementación del plan de extensión agropecuaria en 10 municipios prioritarios, ofreciendo formación y asesoría técnica.
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-10
                   p.mb-0 Rutas agroecológicas en tres provincias, con planes de expansión para producción sostenible adaptada al clima local.
