@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Políticas publicas',
+      tema: 'Políticas públicas',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> aplicar los conocimientos adquiridos sobre políticas públicas en el sector rural mediante un cuestionario que permita reflexionar, reconocer conceptos clave y fortalecer la comprensión sobre derechos, actores, espacios de participación e instrumentos de incidencia comunitaria.',

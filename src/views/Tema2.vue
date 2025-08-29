@@ -83,7 +83,7 @@
         figure
           img(src="@/assets/curso/tema2/8.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p(data-aos="fade-left") El reconocimiento internacional de estos derechos se ve reflejado en la Declaración de las Naciones Unidas sobre los Derechos de los Campesinos y de Otras Personas que Trabajan en Zonas Rurales, que obliga a los Estados a proteger al campesinado frente a la pobreza, la discriminación, el abandono estatal y las amenazas ambientales o económicas.
+        p(data-aos="fade-left") El reconocimiento internacional de estos derechos se ve reflejado en la declaración de las naciones unidas sobre los derechos de los campesinos y de otras personas que trabajan en zonas rurales, que obliga a los estados a proteger al campesinado frente a la pobreza, la discriminación, el abandono estatal y las amenazas ambientales o económicas.
     
         .bg-color-3.p-4.mb-3(data-aos="fade-left")
           .row.align-items-center
@@ -97,7 +97,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Necesidad para asociarse
     
-    p.mb-5 Las políticas públicas rurales no se diseñan ni se ejecutan de forma aislada. Su efectividad depende de la participación de múltiples actores, que interactúan en diferentes niveles y con distintos intereses. Asociarse y articularse es esencial para lograr legitimidad, eficiencia y sostenibilidad en la implementación de estas políticas. Principales actores en la construcción de políticas públicas rurales son: 
+    p.mb-5 Las políticas públicas rurales no se diseñan ni se ejecutan de forma aislada. Su efectividad depende de la participación de múltiples actores, que interactúan en diferentes niveles y con distintos intereses. Asociarse y articularse es esencial para lograr legitimidad, eficiencia y sostenibilidad en la implementación de estas políticas. Los principales actores en la construcción de políticas públicas rurales son: 
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Estado " :icono="require('@/assets/componentes/5.svg')")

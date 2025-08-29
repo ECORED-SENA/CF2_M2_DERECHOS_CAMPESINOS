@@ -28,7 +28,7 @@
         separador
         
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 1.1 Tipos de Políticas públicas 
+          h2 1.1 Tipos de políticas públicas 
         
         p.mb-5 Las políticas públicas se clasifican según el ámbito que abordan. Cada tipo responde a necesidades específicas, pero todas contribuyen al desarrollo integral de las comunidades y los territorios.
 
@@ -136,7 +136,7 @@
             p.ms-5 <b>Ejemplo</b>: proponer programas de capacitación docente, definiendo tipo de formación, responsables, costos y metas esperadas.
           div(titulo="Adopción de la decisión")
             p.ms-5 Se elige la opción más adecuada considerando criterios técnicos, sociales, económicos y políticos, así como opiniones e intereses de los actores implicados. 
-            p.ms-5 <b>Ejemplo</b>: si se aprueba fortalecer la formación docente, se define quién financiará, implementará y supervisará el programa, además de informar a la comunidad y establecer lineamientos.
+            p.ms-5 <b>Ejemplo</b>: sí se aprueba fortalecer la formación docente, se define quién financiará, implementará y supervisará el programa, además de informar a la comunidad y establecer lineamientos.
           div(titulo="Implementación de la política pública")
             p.ms-5.mb-0 Se ejecutan programas y acciones en el territorio, asignando recursos, coordinando instituciones y promoviendo la participación comunitaria. 
             p.ms-5 En el ámbito rural, se consideran dispersión geográfica, diversidad cultural, condiciones socioeconómicas y formas de organización campesina.

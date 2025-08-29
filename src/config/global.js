@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Políticas publicas ',
+    Name: 'Políticas públicas ',
     Description:
       'En este componente formativo se abordan los aspectos fundamentales de las políticas públicas, entendidas como herramientas que permiten organizar los recursos del país y contribuir al bienestar de la población, en especial de las comunidades más vulnerables. En el ámbito rural, estas políticas pueden impulsar la producción agrícola, mejorar el acceso al agua, fortalecer las asociaciones campesinas, facilitar el acceso al crédito y garantizar la protección de los derechos sobre la tierra.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -37,7 +37,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Tipos de Políticas públicas',
+            titulo: 'Tipos de políticas públicas',
             hash: 't_1_1',
           },
           {
