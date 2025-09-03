@@ -213,7 +213,7 @@
                     TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
                       texto="Derechos humanos en la participación campesina"
                       tiempo
-                      :audio="require('../assets/curso/podcast/podcast1.mp3')"
+                      :audio="require('../assets/curso/podcast/Podcast_CF2_TE_Derechos_campesinos_M2.mp3')"
                     )
         
         separador
