@@ -149,7 +149,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -308,7 +308,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'xyz xyz',
+          nombre: 'Blanca Flor Tinoco Torres',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
