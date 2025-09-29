@@ -118,7 +118,7 @@
     .row.justify-content-center.bg-color-12.p-4.p-md-5.mb-5
       .col-md-6
         figure
-          img(src="@/assets/curso/tema1/11.svg", data-aos="zoom-in", alt="")
+          img(src="@/assets/curso/tema1/11.svg", data-aos="zoom-in", alt="Diagrama sobre el ciclo de las políticas públicas que incluye cinco etapas: identificación y definición del problema, formulación de políticas, adopción de la decisión, implementación de las políticas públicas y evaluación de las políticas públicas.")
     
     p.mb-5 El ciclo de las políticas públicas permite comprender cómo el Estado identifica problemas, diseña soluciones, toma decisiones, implementa acciones y evalúa resultados. Este enfoque ordena el proceso de intervención estatal, asegurando que las políticas respondan a las necesidades sociales y promuevan el desarrollo sostenible de las comunidades. A continuación, se presentan sus principales fases:
 
