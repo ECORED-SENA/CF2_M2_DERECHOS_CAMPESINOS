@@ -149,7 +149,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF02_DU.pdf',
+        download: 'downloads/DERECHOS_CAMPESINOS_M2_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -174,10 +174,10 @@ export default {
     {
       tema: 'Cómo nacen las políticas públicas',
       referencia:
-        'Ramos, Y. (2016).  Algunos aportes de políticas públicas para la agricultura familiar en Colombia: contribuciones y retos para el desarrollo rural. Sessões Temáticas',
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura, Ministerio de Agricultura y Desarrollo Rural de Colombia, Ministerio de Agricultura, Ganadería y Abastecimiento de Brasil, Agencia Brasileña de Cooperación y Ministerio de Relaciones Exteriores de Brasil. (2021). Recomendaciones de instrumentos y de políticas públicas para la Agricultura Familiar. ',
       tipo: 'Articulo',
       link:
-        'https://anais.anpur.org.br/index.php/anaisenanpur/article/view/1574/1553 ',
+        'https://sembrandocapacidades.fao.org.co/wp-content/uploads/2021/12/RecomendacionesESP.pdf ',
     },
     {
       tema: 'El papel del gobierno local, regional y nacional.',
